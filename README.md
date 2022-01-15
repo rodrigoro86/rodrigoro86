@@ -30,4 +30,4 @@ Observando a demora e o trabalho que dá para criar diversos hosts no Zabbix, de
 ##### 3. Assistente Jira - Projeto Privado  
 Estou desenvolvendo um programa chamado "Assistente Virtual Jira" em Python, o qual consiste em um bot no Telegram utilizado para se comunicar com o usuário. Esse bot é programado para responder determinados usuários, cadastrados no banco de dados, os quais são separados por perfis e grupos. Por meio da técnica de WebScraping, o programa faz consultas, geração de relatórios e monitoramento dos status dos documentos, tudo dentro do site "Jira", conforme solicitado pelo usuário. 
 
-# 🌟✨ Seja Bem Vindo ao meu GitHub ✨🌟
+# 🌟✨ Seja Bem-vindo(a) ao meu GitHub ✨🌟
