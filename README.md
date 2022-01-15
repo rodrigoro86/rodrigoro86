@@ -7,8 +7,8 @@
 [<img src="https://github.com/rodrigoro86/rodrigoro86/blob/main/imagens/linkedIn-logo.svg">](https://www.linkedin.com/in/rodrigo-broslavschi-de-oliveira-238b18179/) [Rodrigo Broslavschi de Oliveira](https://www.linkedin.com/in/rodrigo-broslavschi-de-oliveira-238b18179)<br>
 
 #### Atividades na ATECH:
-🔧 Suporte e Manutenção do Sistema de Controle de Tráfego Aéreo e Sequênciamento de Aéronaves.  
-🐍 Desenvolvimento de um Assistente Virtual em Python, o qual utiliza a técnica de webscraping para fazer consultas e monitoramento de documentos internos.  
+🔧 Suporte e Manutenção do Sistema de Controle de Tráfego Aéreo e Sequênciamento de Aeronaves.  
+🐍 Desenvolvimento de um Assistente Virtual em Python, que utiliza a técnica de webscraping para fazer consultas e monitoramento de documentos internos.  
 
 #### Formação:  
 🎓 Engenharia Elétrica - UNINOVE  
