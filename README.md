@@ -1,4 +1,4 @@
 ## Fala amigon, me chamo Rodrigo Broslavschi de Oliveira
-### ✨ Sejá bem vindo ao meu GitHub ! ✨
 
+:computer: Analista de Infraestrutura Pleno - Sistema de Controle de Trafego Aéreo :airplane:
 
