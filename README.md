@@ -5,10 +5,6 @@
 ![alt text](https://github.com/rodrigoro86/rodrigoro86/blob/main/imagens/logo_ATECH.svg?raw=true)
 
 ### Encontre-me por aqui 📡
-[<img src="https://github.com/rodrigoro86/rodrigoro86/blob/main/imagens/gmail-logo.svg">](mailto:rodrigoliveira132@gmail.com)
-<a target="_blank" href="mailto:rodrigoliveira132@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://github.com/rodrigoro86/rodrigoro86/blob/main/imagens/gmail-logo.svg" />
-</a> rodrigoliveira132@gmail.com <br>
-<a target="_blank" href="mailto:arycleniobarros@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://github.com/rodrigoro86/rodrigoro86/blob/main/imagens/gmail-logo.svg" />
-</a>rodrigoliveira132@gmail.com
+[<img src="https://github.com/rodrigoro86/rodrigoro86/blob/main/imagens/gmail-logo.svg">](mailto:rodrigoliveira132@gmail.com) rodrigoliveira132@gmail.com <br>
+[<img src="https://github.com/rodrigoro86/rodrigoro86/blob/main/imagens/linkedIn-logo.svg">](https://www.linkedin.com/in/rodrigo-oliveira-238b18179/) Rodrigo Broslavschi de Oliveira <br>
+
