@@ -24,7 +24,7 @@ Bibliotecas -> Pandas, Nunpy, Flask, Sqlite, Matplotlib, Telebot, Bs4, Requests,
 Desenvolvi um código em Python que faz a criação de todos os hosts, itens, triggers, grupos, scripts e mapas do Zabbix por meio do protocolo JSON e a API do Zabbix.  
 
 ##### 2. Cria_Hosts_Zabbix - Projeto Público  
-Observando a demora e o trabalho que dá para criar diversos hosts no Zabbix, desenvolvi um programa em Python para ler uma planilha que contém os dados dos hosts e, assim, por meio da API do Zabbix, cria os hosts.  
+Observando a demora e o trabalho que dá para criar diversos hosts no Zabbix, desenvolvi um programa em Python para ler uma planilha que contém os dados dos hosts e, assim, por meio da API do Zabbix, criar os hosts.
 [Repositório GitHub](https://github.com/rodrigoro86/Zabbix_API/tree/main/Cria_Hosts_Zabbix)  
 
 ##### 3. Assistente Jira - Projeto Privado  
