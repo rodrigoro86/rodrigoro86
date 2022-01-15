@@ -21,10 +21,10 @@ Bibliotecas -> Pandas, Nunpy, Flask, Sqlite, Matplotlib, Telebot, Bs4, Requests,
 
 #### Projetos Desenvolvidos:
 ##### 1. Kickstart Zabbix  - Projeto Privado
-Desenvolvi um código em python que faz a criação de todos os hosts, itens, triggers, grupos, scripts e mapas do zabbix por meio do protocolo JSON e a API do Zabbix.  
+Desenvolvi um código em Python que faz a criação de todos os hosts, itens, triggers, grupos, scripts e mapas do Zabbix por meio do protocolo JSON e a API do Zabbix.  
 
-##### 2. Cria_Hosts_Zabbix - Projeto Publico  
-Observando a demora e o trabalho que dá para criar diversos hosts no Zabbix, desenvolvi um código em python que faz a leitura de uma planilha com os dados dos hosts e por meio da API do Zabbix cria esses hosts.  
+##### 2. Cria_Hosts_Zabbix - Projeto Público  
+Observando a demora e o trabalho que dá para criar diversos hosts no Zabbix, desenvolvi um programa em Python para ler uma planilha que contém os dados dos hosts e, assim, por meio da API do Zabbix, cria os hosts.  
 [Repositório GitHub](https://github.com/rodrigoro86/Zabbix_API/tree/main/Cria_Hosts_Zabbix)  
 
 ##### 3. Assistente Jira - Projeto Privado  
