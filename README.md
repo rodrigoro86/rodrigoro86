@@ -18,7 +18,6 @@
 #### 🐍 Python  
 Bibliotecas -> Pandas, Nunpy, Flask, Sqlite, Matplotlib, Telebot, Bs4, Requests, Qt5 e Openpyxl  
 #### 🐳 Docker  
-Criação de containers  
 
 #### Projetos Desenvolvidos:
 ##### 1. Kickstart Zabbix  - Projeto Privado
