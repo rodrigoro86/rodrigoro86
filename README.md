@@ -12,7 +12,7 @@
 
 #### Formação:  
 🎓 Engenharia Elétrica - UNINOVE  
-🔌 Técnico em Eletrônico - ETEC
+🔌 Técnico em Eletrônico - ETEC  
 🔧 Técnico em Mecatrônica - Colégio São Judas Tadeu
 
 #### Projetos Desenvolvidos:
