@@ -13,11 +13,7 @@
 #### Formação:  
 🎓 Engenharia Elétrica - UNINOVE  
 🔌 Técnico em Eletrônico - ETEC
-
-### Especialização: 
-#### 🐍 Python  
-Bibliotecas -> Pandas, Nunpy, Flask, Sqlite, Matplotlib, Telebot, Bs4, Requests, Qt5 e Openpyxl  
-#### 🐳 Docker  
+🔧 Técnico em Mecatrônica - Colégio São Judas Tadeu
 
 #### Projetos Desenvolvidos:
 ##### 1. Kickstart Zabbix  - Projeto Privado
