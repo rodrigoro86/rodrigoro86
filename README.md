@@ -1,6 +1,6 @@
 ## Fala amigon, me chamo Rodrigo Broslavschi de Oliveira
 
-:computer: Analista de Infraestrutura Pleno - Sistema de Controle de Trafego Aéreo :airplane: Empresa: [<img src="https://github.com/rodrigoro86/rodrigoro86/blob/main/imagens/logo_ATECH.svg">](https://atech.com.br/)
+:computer: Analista de Infraestrutura - Sistema de Controle de Trafego Aéreo :airplane: Empresa: [<img src="https://github.com/rodrigoro86/rodrigoro86/blob/main/imagens/logo_ATECH.svg">](https://atech.com.br/)
 
 ### Encontre-me por aqui 📡
 [<img src="https://github.com/rodrigoro86/rodrigoro86/blob/main/imagens/gmail-logo.svg">](mailto:rodrigoliveira132@gmail.com) rodrigoliveira132@gmail.com <br>
