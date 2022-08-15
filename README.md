@@ -16,14 +16,12 @@
 🔧 Técnico em Mecatrônica - Colégio São Judas Tadeu
 
 ### Projetos Desenvolvidos:
-#### 1. Kickstart Zabbix  - Projeto Privado
-Desenvolvi um código em Python que faz a criação de todos os hosts, itens, triggers, grupos, scripts e mapas do Zabbix por meio do protocolo JSON e a API do Zabbix.  
 
-#### 2. Cria_Hosts_Zabbix - Projeto Público  
+#### 1. Cria_Hosts_Zabbix - Projeto Público  
 Observando a demora e o trabalho que dá para criar diversos hosts no Zabbix, desenvolvi um programa em Python para ler uma planilha que contém os dados dos hosts e, assim, por meio da API do Zabbix, criar os hosts.
 [Repositório Cria_Hosts_Zabbix GitHub](https://github.com/rodrigoro86/Cria_Hosts_Zabbix)  
 
-#### 3. Monitormanento Nimble - Projeto Público
+#### 2. Monitormanento Nimble - Projeto Público
 Fiz um projeto que pelo Zabbix Server é monitorado todos os dados dos storages Nimble HPE como:
 - Sensores de temperatura
 - Fans
