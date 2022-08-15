@@ -18,7 +18,7 @@
 ### Projetos Desenvolvidos:
 
 #### 1. Cria_Hosts_Zabbix - Projeto Público  
-Observando a demora e o trabalho que dá para criar diversos hosts no Zabbix, desenvolvi um programa em Python para ler uma planilha que contém os dados dos hosts e, assim, por meio da API do Zabbix, criar os hosts.
+Observando a demora e o trabalho que dá para criar diversos hosts no Zabbix, desenvolvi um programa em Python para ler uma planilha que contém os dados dos hosts e, assim, por meio da API do Zabbix, criar os hosts.  
 [Repositório Cria_Hosts_Zabbix GitHub](https://github.com/rodrigoro86/Cria_Hosts_Zabbix)  
 
 #### 2. Monitormanento Nimble - Projeto Público
@@ -29,5 +29,11 @@ Fiz um projeto que pelo Zabbix Server é monitorado todos os dados dos storages 
 - HDs
 - Controladoras   
 [Repositório Monitormanento_Nimble GitHub](https://github.com/rodrigoro86/Monitoramento_Nimble)  
+
+#### 3. Ferramenta de auxílio na calibração do sistema de sequêncimento de aeronaves - Projeto Privado 
+Para me auxiliar com a calibração do sistema de sequêniciamento de aeronaves, criei uma IHM com python e Tkinter que faz a leitura da base de dados e dos logs do sistema de sequênciamento e com esses dados fornece uma visão de como está configurado o espaço aéreo, o rastro das aeronaves por onde voaram e gráficos dos cálculos realizados. 
+
+
+
 
 # 🌟✨ Seja Bem-vindo(a) ao meu GitHub ✨🌟
