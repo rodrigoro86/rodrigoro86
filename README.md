@@ -21,7 +21,7 @@ Desenvolvi um código em Python que faz a criação de todos os hosts, itens, tr
 
 #### 2. Cria_Hosts_Zabbix - Projeto Público  
 Observando a demora e o trabalho que dá para criar diversos hosts no Zabbix, desenvolvi um programa em Python para ler uma planilha que contém os dados dos hosts e, assim, por meio da API do Zabbix, criar os hosts.
-[Repositório Cria_Hosts_Zabbix GitHub](https://github.com/rodrigoro86/Zabbix_API/tree/main/Cria_Hosts_Zabbix)  
+[Repositório Cria_Hosts_Zabbix GitHub](https://github.com/rodrigoro86/Cria_Hosts_Zabbix)  
 
 #### 3. Assistente Jira - Projeto Privado  
 Estou desenvolvendo um programa chamado "Assistente Virtual Jira" em Python, o qual consiste em um bot no Telegram utilizado para se comunicar com o usuário. Esse bot é programado para responder determinados usuários, cadastrados no banco de dados, os quais são separados por perfis e grupos. Por meio da técnica de WebScraping, o programa faz consultas, geração de relatórios e monitoramento dos status dos documentos, tudo dentro do site "Jira", conforme solicitado pelo usuário. 
