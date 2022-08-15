@@ -33,7 +33,7 @@ Fiz um projeto que pelo Zabbix Server é monitorado todos os dados dos storages 
 #### 3. Ferramenta de auxílio na calibração do sistema de sequêncimento de aeronaves - Projeto Privado 
 Para me auxiliar com a calibração do sistema de sequêniciamento de aeronaves, criei uma IHM com python e Tkinter que faz a leitura da base de dados e dos logs do sistema de sequênciamento e com esses dados fornece uma visão de como está configurado o espaço aéreo, o rastro das aeronaves por onde voaram e gráficos dos cálculos realizados. 
 
-
+[Imagem da IHM desenvolvida](https://github.com/rodrigoro86/rodrigoro86/blob/main/imagens/Ferramenta%20de%20Auxilio%20Calibracao.png) 
 
 
 # 🌟✨ Seja Bem-vindo(a) ao meu GitHub ✨🌟
