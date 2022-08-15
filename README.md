@@ -33,6 +33,6 @@ Fiz um projeto que pelo Zabbix Server é monitorado todos os dados dos storages 
 - Fontes
 - HDs
 - Controladoras   
-[Repositório Monitormanento_Nimble GitHub](https://github.com/rodrigoro86/Zabbix_API/tree/main/Cria_Hosts_Zabbix)  
+[Repositório Monitormanento_Nimble GitHub](https://github.com/rodrigoro86/Monitoramento_Nimble)  
 
 # 🌟✨ Seja Bem-vindo(a) ao meu GitHub ✨🌟
