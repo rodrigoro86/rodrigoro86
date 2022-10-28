@@ -35,5 +35,7 @@ Para me auxiliar com a calibração do sistema de sequêniciamento de aeronaves,
 
 [Imagem da IHM desenvolvida](https://github.com/rodrigoro86/rodrigoro86/blob/main/imagens/Ferramenta%20de%20Auxilio%20Calibracao.png) 
 
-
+#### 4. Alura Challenge Back-End - Projeto Privado 
+A Alura disponibilizou um desafio que pe desenvover uma API para o site de vídeos, para esse projeto estou desenvolvendo com Django REST Framework e está disponibilizado no link http://34.138.208.237/
+ 
 # 🌟✨ Seja Bem-vindo(a) ao meu GitHub ✨🌟
