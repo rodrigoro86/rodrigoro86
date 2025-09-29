@@ -1,48 +1,111 @@
-# Portfólio Pessoal (Template)
+# Rodrigo Broslavschi
 
-Um site de portfólio estático, simples e moderno, com tema claro/escuro e conteúdo em `data/profile.json`.
+**Desenvolvedor Sênior | MLOps & Data Science**
 
-## Como usar
+Especialista em Inteligência Artificial e Machine Learning com foco em soluções de produção escaláveis e automatizadas.
 
-1. Edite o arquivo `data/profile.json` com suas informações: nome, bio, habilidades, experiência, projetos e contatos.
-2. Abra `index.html` no navegador (duplo clique) ou sirva localmente com um servidor estático.
+---
 
-### Servir localmente (opcional)
+## 👨‍💻 Sobre Mim
 
-- Usando Python 3:
+Desenvolvedor com sólida experiência em projetos de Inteligência Artificial utilizando Python, com foco em práticas de MLOps. Especializado na automação de pipelines de machine learning, versionamento de dados e modelos, e integração contínua com CI/CD.
 
-```bash
-python3 -m http.server 5173
-```
+Proficiente em bibliotecas como Pandas, GeoPandas, Scikit-learn e FastAPI, aplicadas ao tratamento de dados geoespaciais e à construção de APIs para entrega de modelos em produção.
 
-Acesse `http://localhost:5173`.
+---
 
-- Usando Node (se tiver instalado):
+## 📫 Contato
 
-```bash
-npx serve -s . -l 5173
-```
+- **Telefone:** (11) 98537-7430
+- **Email:** rodrigobroslavschi@gmail.com
+- **LinkedIn:** [linkedin.com/in/rodrigobroslavschi](https://linkedin.com/in/rodrigobroslavschi)
+- **Localização:** Salto de Pirapora, São Paulo
 
-## Personalização rápida
+---
 
-- Título e nome exibidos são carregados do `data/profile.json`.
-- Para alterar o esquema de cores, ajuste variáveis CSS em `styles.css` (seções `:root` e `.theme-dark`).
-- Para adicionar/remover seções, edite `index.html` e os renderizadores correspondentes em `script.js`.
+## 🎓 Formação Acadêmica
 
-## Estrutura
+### MBA em Data Science & Big Data
+**Faculdade de Informática e Administração Paulista (FIAP)**  
+*2024 - 2025*
 
-```
-index.html        # Estrutura do site e seções
-styles.css        # Estilos, responsividade e tema
-script.js         # Carrega profile.json e popula a página
-data/profile.json # Seus dados de perfil (edite aqui)
-```
+### Bacharelado em Engenharia Elétrica
+**Universidade Nove de Julho (UNINOVE)**  
+*2015 - 2019*
 
-## Deploy
+---
 
-- GitHub Pages: publique este repositório e habilite Pages (branch `main`/`docs`).
-- Netlify/Vercel: importe o repositório e defina diretório base como a raiz.
+## 💼 Experiência Profissional
 
-## Licença
+### **Desenvolvedor Sênior** | SIPREMO
+*2024 - Presente*
 
-Uso livre. Sem garantias. Personalize como desejar.
+- Processamento e análise de dados geoespaciais com GeoPandas, PostGIS e Rasterio
+- Desenvolvimento de APIs RESTful de alta performance com FastAPI para disponibilizar modelos de machine learning
+- Implementação de modelos de ML voltados à análise e predição de eventos meteorológicos
+- Práticas de MLOps com MLflow, Windmill, DVC e pipelines CI/CD utilizando GitHub Actions e Docker
+
+### **Analista de Infraestrutura** | ATECH - Grupo EMBRAER
+*2019 - 2024*
+
+- Manutenção de sistemas críticos de controle de tráfego aéreo
+- Desenvolvimento de ferramentas e softwares robustos em Python
+- Tratamento e análise de dados geográficos para calibração precisa do sistema de controle de tráfego aéreo
+
+---
+
+## 🚀 Principais Projetos
+
+### **Predição de Chuva**
+Pipeline MLOps completo para automatizar a coleta, processamento e modelagem de dados meteorológicos, com foco na predição de chuvas. Implementação de versionamento de dados, rastreamento de experimentos e deployment automatizado.
+
+**Tecnologias:** Python, MLflow, DVC, FastAPI, Docker, GitHub Actions
+
+### **Predição de Praga**
+Pipeline MLOps voltado à predição de pragas agrícolas, integrando dados climáticos e geoespaciais com versionamento de dados e monitoramento contínuo dos modelos em produção.
+
+**Tecnologias:** Python, GeoPandas, Scikit-learn, MLflow, DVC, Windmill
+
+---
+
+## 🛠️ Habilidades Técnicas
+
+**Linguagens & Frameworks**
+- Python (Pandas, GeoPandas, Scikit-learn)
+- FastAPI
+- SQL / PostGIS
+
+**MLOps & DevOps**
+- Git, DVC, MLflow
+- Docker
+- CI/CD (GitHub Actions)
+- Windmill (orquestração de workflows)
+
+**Cloud & Infraestrutura**
+- Cloud Computing
+- Linux
+
+**Análise de Dados**
+- Machine Learning
+- Dados Geoespaciais
+- Rasterio
+- QGIS
+
+---
+
+## 🌐 Idiomas
+
+- **Inglês:** Intermediário
+- **Português:** Nativo
+
+---
+
+## 📊 Áreas de Especialização
+
+- Pipeline de Machine Learning (MLOps)
+- Análise e Processamento de Dados Geoespaciais
+- Desenvolvimento de APIs REST
+- Automação e Orquestração de Workflows
+- Modelos Preditivos (Meteorologia e Agricultura)
+- Versionamento de Dados e Modelos
+- Integração e Deploy Contínuo
