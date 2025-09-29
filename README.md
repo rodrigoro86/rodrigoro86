@@ -6,7 +6,7 @@ Especialista em Inteligência Artificial e Machine Learning com foco em soluçõ
 
 ---
 
-## 👨‍💻 Sobre Mim
+## Sobre Mim
 
 Desenvolvedor com sólida experiência em projetos de Inteligência Artificial utilizando Python, com foco em práticas de MLOps. Especializado na automação de pipelines de machine learning, versionamento de dados e modelos, e integração contínua com CI/CD.
 
@@ -14,7 +14,7 @@ Proficiente em bibliotecas como Pandas, GeoPandas, Scikit-learn e FastAPI, aplic
 
 ---
 
-## 📫 Contato
+## Contato
 
 - **Telefone:** (11) 98537-7430
 - **Email:** rodrigobroslavschi@gmail.com
@@ -23,7 +23,7 @@ Proficiente em bibliotecas como Pandas, GeoPandas, Scikit-learn e FastAPI, aplic
 
 ---
 
-## 🎓 Formação Acadêmica
+## Formação Acadêmica
 
 ### MBA em Data Science & Big Data
 **Faculdade de Informática e Administração Paulista (FIAP)**  
@@ -35,7 +35,7 @@ Proficiente em bibliotecas como Pandas, GeoPandas, Scikit-learn e FastAPI, aplic
 
 ---
 
-## 💼 Experiência Profissional
+## Experiência Profissional
 
 ### **Desenvolvedor Sênior** | SIPREMO
 *2024 - Presente*
@@ -54,7 +54,7 @@ Proficiente em bibliotecas como Pandas, GeoPandas, Scikit-learn e FastAPI, aplic
 
 ---
 
-## 🚀 Principais Projetos
+## Principais Projetos
 
 ### **Predição de Chuva**
 Pipeline MLOps completo para automatizar a coleta, processamento e modelagem de dados meteorológicos, com foco na predição de chuvas. Implementação de versionamento de dados, rastreamento de experimentos e deployment automatizado.
@@ -68,7 +68,7 @@ Pipeline MLOps voltado à predição de pragas agrícolas, integrando dados clim
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## Habilidades Técnicas
 
 **Linguagens & Frameworks**
 - Python (Pandas, GeoPandas, Scikit-learn)
@@ -90,17 +90,10 @@ Pipeline MLOps voltado à predição de pragas agrícolas, integrando dados clim
 - Dados Geoespaciais
 - Rasterio
 - QGIS
-
+- 
 ---
 
-## 🌐 Idiomas
-
-- **Inglês:** Intermediário
-- **Português:** Nativo
-
----
-
-## 📊 Áreas de Especialização
+## Áreas de Especialização
 
 - Pipeline de Machine Learning (MLOps)
 - Análise e Processamento de Dados Geoespaciais
