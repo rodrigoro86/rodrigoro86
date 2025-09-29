@@ -1,0 +1,44 @@
+{
+  "name": "Seu Nome",
+  "role": "Sua Profissão (ex: Desenvolvedor Frontend)",
+  "location": "Cidade, País",
+  "about": "Breve bio sobre você. Conte sobre seu foco, valores e impacto.",
+  "email": "seu@email.com",
+  "phone": "+55 (00) 00000-0000",
+  "social": [
+    { "label": "LinkedIn", "url": "https://linkedin.com/in/seuusuario" },
+    { "label": "GitHub", "url": "https://github.com/seuusuario" },
+    { "label": "X", "url": "https://x.com/seuusuario" }
+  ],
+  "skills": [
+    { "name": "JavaScript", "level": 80 },
+    { "name": "TypeScript", "level": 70 },
+    { "name": "React", "level": 75 },
+    { "name": "Node.js", "level": 65 }
+  ],
+  "experience": [
+    {
+      "company": "Empresa Exemplo",
+      "role": "Cargo",
+      "start": "2023",
+      "end": "Atual",
+      "summary": "Responsável por desenvolvimentos, revisões técnicas e colaboração com times."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Projeto A",
+      "description": "Breve descrição do projeto e seu impacto/resultado.",
+      "tags": ["React", "API"],
+      "link": "https://seusite.com/projeto-a",
+      "source": "https://github.com/seuusuario/projeto-a"
+    },
+    {
+      "name": "Projeto B",
+      "description": "Outro projeto relevante que demonstra suas habilidades.",
+      "tags": ["Node.js", "CLI"],
+      "link": "https://seusite.com/projeto-b",
+      "source": "https://github.com/seuusuario/projeto-b"
+    }
+  ]
+}
