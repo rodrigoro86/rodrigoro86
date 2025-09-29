@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="pt-br" class="theme-auto">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Portfólio — Seu Nome</title>
+    <meta name="description" content="Portfólio profissional de Seu Nome. Projetos, experiência e contato.">
+    <meta name="color-scheme" content="light dark">
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='16' fill='%2307c'%3E%3C/circle%3E%3Ctext x='16' y='21' font-size='16' text-anchor='middle' fill='white' font-family='Arial, Helvetica, sans-serif'%3E%F0%9F%93%9D%3C/text%3E%3C/svg%3E">
+    <link rel="preload" href="data/profile.json" as="fetch" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="#hero" aria-label="Início">
+        <span class="brand-mark" aria-hidden="true">◆</span>
+        <span id="brand-name">Seu Nome</span>
+      </a>
+      <nav class="site-nav" aria-label="Seções">
+        <a href="#sobre">Sobre</a>
+        <a href="#habilidades">Habilidades</a>
+        <a href="#experiencia">Experiência</a>
+        <a href="#projetos">Projetos</a>
+        <a href="#contato">Contato</a>
+      </nav>
+      <button id="theme-toggle" class="theme-toggle" aria-label="Alternar tema" title="Tema claro/escuro">
+        <span class="icon" aria-hidden="true">🌙</span>
+      </button>
+    </header>
+
+    <main id="hero" class="hero">
+      <div class="hero-inner">
+        <p class="eyebrow">Olá, eu sou</p>
+        <h1 id="hero-name">Seu Nome</h1>
+        <p id="hero-role" class="role">Sua Profissão</p>
+        <p id="hero-location" class="location">Cidade, País</p>
+        <div class="hero-cta">
+          <a href="#projetos" class="btn primary">Ver projetos</a>
+          <a href="#contato" class="btn">Entrar em contato</a>
+        </div>
+      </div>
+    </main>
+
+    <section id="sobre" class="section">
+      <div class="container">
+        <h2>Sobre</h2>
+        <p id="about-text">Breve bio...</p>
+      </div>
+    </section>
+
+    <section id="habilidades" class="section">
+      <div class="container">
+        <h2>Habilidades</h2>
+        <ul id="skills-list" class="skills"></ul>
+      </div>
+    </section>
+
+    <section id="experiencia" class="section">
+      <div class="container">
+        <h2>Experiência</h2>
+        <div id="experience-list" class="timeline"></div>
+      </div>
+    </section>
+
+    <section id="projetos" class="section">
+      <div class="container">
+        <h2>Projetos</h2>
+        <div id="projects-grid" class="projects"></div>
+      </div>
+    </section>
+
+    <section id="contato" class="section">
+      <div class="container">
+        <h2>Contato</h2>
+        <ul id="contact-list" class="contact"></ul>
+      </div>
+    </section>
+
+    <footer class="site-footer">
+      <small>© <span id="year"></span> <span id="footer-name">Seu Nome</span>. Feito com ❤️.</small>
+    </footer>
+
+    <noscript>
+      Habilite o JavaScript para carregar os dados do portfólio.
+    </noscript>
+
+    <script src="script.js" defer></script>
+  </body>
+</html>
